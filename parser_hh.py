@@ -4,7 +4,7 @@ from fake_useragent import UserAgent
 import csv
 from multiprocessing import Pool
 
-url = "https://hh.ru/search/vacancy?text=Python&area=1"
+url = "Paste your url"
 
 
 class Parser: #Create class of methods
