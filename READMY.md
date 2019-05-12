@@ -29,3 +29,9 @@ Just paste url of first page on headhunter to var "url" in "parser_hh.py"
 
 1. ![alt text](https://github.com/Antony201/Parser_HeadHunter/blob/master/Images/serv_link.png "Logo Title Text 1")
 2. ![alt text](https://github.com/Antony201/Parser_HeadHunter/blob/master/Images/var.png "Logo Title Text 1")
+
+Then run file :
+* `python parser_hh.py`
+
+---
+Good luck! =)
